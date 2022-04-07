@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TRAGE WEGEN STEKENE",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 142,
+    "uniqCompNum": 141,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/stekene-logo-klein.jpg",
@@ -59,11 +59,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "mbrsite",
-    "publishPath": "file:///C:/Users/hanne/Documents/voorbeeldbestanden_Stekene",
-    "mbrsite": "mbrsite://%7B%22id%22%3A198951%2C%22domain%22%3A%22vbynw7q4fr.mobirisesite.com%22%7D",
-    "mbrsiteDomain": "vbynw7q4fr"
+    "gdpr": false
   },
   "pages": {
     "page1.html": {
@@ -1855,24 +1851,6 @@
           "_anchor": "gallery5-3m",
           "_isUserblock": true,
           "_cid": "t2k1nJXSCJ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-2\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">INVENTARISEER MEE!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-3x",
-          "_isUserblock": true,
-          "_cid": "t2k2GyR653",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
