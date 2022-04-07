@@ -60,6 +60,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/hanne/Documents/voorbeeldbestanden_Stekene",
+    "mbrsite": "mbrsite://%7B%22id%22%3A198951%2C%22domain%22%3A%22vbynw7q4fr.mobirisesite.com%22%7D",
     "mbrsiteDomain": "vbynw7q4fr"
   },
   "pages": {
